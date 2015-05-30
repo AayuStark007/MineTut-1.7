@@ -1,3 +1,13 @@
 item.ebonyIngot.name=§3Ebony Ingot§r
 tile.titaniumOre.name=§4Titanium Ore§r
 itemGroup.tabMineTut=MineTut7
+
+item.titaniumSword.name=§4Titanium Sword§r
+item.titaniumAxe.name=§4Titanium Axe§r
+item.titaniumShovel.name=§4Titanium Shovel§r
+item.titaniumPick.name=§4Titanium Pickaxe§r
+
+item.titaniumHelmet.name=§4Titanium Helmet§r
+item.titaniumChestplate.name=§4Titanium Chestplate§r
+item.titaniumLeggings.name=§4Titanium Leggings§r
+item.titaniumBoots.name=§4Titanium Boots§r
